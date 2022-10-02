@@ -13,7 +13,7 @@
     <img src=https://img.shields.io/badge/AWS%20Partner-Cloud__Economics-brightgreen?style=for-the-badge&logo=amazonaws>
     
     <picture
-             <srcset=" https://github.com/julioaranajr/julioaranajr/blob/main/aws-partner-accreditation-technical-300px.png">
+             <source media=" https://github.com/julioaranajr/julioaranajr/blob/main/aws-partner-accreditation-technical-300px.png">
     /picture>
     
     
