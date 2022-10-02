@@ -22,14 +22,14 @@
 <h4 align="center">Technical Skills</h4>
 
 <p align="center">
-  <img src=https://img.shields.io/badge/html5-%231572B6.svg?style=for-the-badge&logo=html5>
-  <img src=https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3>
+  <img src=https://img.shields.io/badge/html5-#C0C0C0.svg?style=for-the-badge&logo=html5>
+  <img src=https://img.shields.io/badge/css3-#C0C0C0.svg?style=for-the-badge&logo=css3>
   <img src=https://img.shields.io/badge/python-%231572B6?style=for-the-badge&logo=python> 
   <img src=https://img.shields.io/badge/boto3-%231572B6.svg?style=for-the-badge&logo=amazonaws>
   <img src=https://img.shields.io/badge/boto3-%231572B6.svg?style=for-the-badge&logo=amazonaws>
   <img src=https://img.shields.io/badge/Windows-%231572B6?style=for-the-badge&logo=windows>
   <img src=https://img.shields.io/badge/mysql-%231572B6.svg?style=for-the-badge&logo=mysql>
-      ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+   
  </p>
  
  &nbsp;
