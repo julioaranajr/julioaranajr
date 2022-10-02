@@ -28,7 +28,7 @@
   <img src=https://img.shields.io/badge/boto3-grey.svg?style=for-the-badge&logo=amazonaws>
   <img src=https://img.shields.io/badge/lambda-orange.svg?style=for-the-badge&logo=amazonaws>
   <img src=https://img.shields.io/badge/Windows-%231572B6?style=for-the-badge&logo=windows>
-  <img src=https://img.shields.io/badge/mysql-silver.svg?style=for-the-badge&logo=mysql>
+  <img src=https://img.shields.io/badge/mysql-white.svg?style=for-the-badge&logo=mysql>
    
  </p>
  
