@@ -24,6 +24,7 @@
 <p align="center">
   <img src=https://img.shields.io/badge/html5-silver.svg?style=for-the-badge&logo=html5>
   <img src=https://img.shields.io/badge/css3-orange.svg?style=for-the-badge&logo=css3>
+  <img src=https://img.shields.io/badge/javascript-grey.svg?style=for-the-badge&logo=javascript>
   <img src=https://img.shields.io/badge/python-silver?style=for-the-badge&logo=python> 
   <img src=https://img.shields.io/badge/boto3-grey.svg?style=for-the-badge&logo=amazonaws>
   <img src=https://img.shields.io/badge/lambda-orange.svg?style=for-the-badge&logo=amazonaws>
