@@ -9,8 +9,8 @@
 <h3 align="center">Certifications</h4>
 
 <p align="center">
-    <img src=https://img.shields.io/badge/AWS-Technical-brightgreen.svg?style=flat-square&logo=amazonaws>
-    <img src=https://img.shields.io/badge/AWS-Partner-Cloud-Economics-brightgreen.svg?style=flat-square&logo=amazonaws>
+    <img src=https://img.shields.io/badge/AWS-Technical-brightgreen.svg??style=for-the-badge&logo=amazonaws>
+    <img src=https://img.shields.io/badge/Partner-Cloud__Economics-brightgreen?style=for-the-badge&logo=amazonaws>
  </p>
 
 
