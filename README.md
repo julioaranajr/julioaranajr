@@ -12,10 +12,9 @@
     <img src=https://img.shields.io/badge/AWS%20Partner-%20__Technical__%20-brightgreen.svg?style=for-the-badge&logo=amazonaws>
     <img src=https://img.shields.io/badge/AWS%20Partner-Cloud__Economics-brightgreen?style=for-the-badge&logo=amazonaws>
     
-    <picture>
-  <source media="(prefers-color-scheme: dark)" srcset=" https://github.com/julioaranajr/julioaranajr/blob/main/aws-partner-accreditation-technical-300px.png">
-  <source media="(prefers-color-scheme: light)" srcset=" https://github.com/julioaranajr/julioaranajr/blob/main/aws-partner-accreditation-technical-300px.png">
-    </picture>
+    <picture
+             <srcset=" https://github.com/julioaranajr/julioaranajr/blob/main/aws-partner-accreditation-technical-300px.png">
+    /picture>
     
     
 
