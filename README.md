@@ -15,8 +15,7 @@
     <picture>
   <source media="(prefers-color-scheme: dark)" srcset=" https://github.com/julioaranajr/julioaranajr/blob/main/aws-partner-accreditation-technical-300px.png">
   <source media="(prefers-color-scheme: light)" srcset=" https://github.com/julioaranajr/julioaranajr/blob/main/aws-partner-accreditation-technical-300px.png">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src=" https://github.com/julioaranajr/julioaranajr/blob/main/aws-partner-accreditation-technical-300px.png">
-</picture>
+    </picture>
     
     
 
