@@ -7,8 +7,8 @@
 &nbsp;
 
 <h3 align="center">Certifications</h3>
-    |<img src=https://github.com/julioaranajr/julioaranajr/blob/main/aws-partner-accreditation-technical-300px.png>|<img src=https://github.com/julioaranajr/julioaranajr/blob/main/aws-partner-cloud-economics-badge-300px.png>|
-    | --- | --- |
+<img src=https://github.com/julioaranajr/julioaranajr/blob/main/aws-partner-accreditation-technical-300px.png&https://github.com/julioaranajr/julioaranajr/blob/main/aws-partner-cloud-economics-badge-300px.png>
+    
 
 <p align="center">
     <img src=https://img.shields.io/badge/AWS%20Partner-%20__Technical__%20-brightgreen.svg?style=for-the-badge&logo=amazonaws>
