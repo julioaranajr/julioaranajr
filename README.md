@@ -12,7 +12,7 @@
     
 
 <p align="center">
-    <img src=https://img.shields.io/badge/AWS%20Partner-%20__Technical__%20-brightgreen.svg?style=for-the-badge&logo=amazonaws>
+    <img src=https://img.shields.io/badge/AWS%20Partner-%20__Technical__%20-blue.svg?style=for-the-badge&logo=amazonaws>
     <img src=https://img.shields.io/badge/AWS%20Partner-Cloud__Economics-brightgreen?style=for-the-badge&logo=amazonaws>
     
  
