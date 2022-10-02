@@ -26,7 +26,7 @@
   <img src=https://img.shields.io/badge/css3-orange.svg?style=for-the-badge&logo=css3>
   <img src=https://img.shields.io/badge/javascript-grey.svg?style=for-the-badge&logo=javascript>
   <img src=https://img.shields.io/badge/python-silver?style=for-the-badge&logo=python> 
-  <img src=https://img.shields.io/badge/boto3-grey.svg?style=for-the-badge&logo=amazonaws>
+  <img src=https://img.shields.io/badge/boto3-%231572B6.svg?style=for-the-badge&logo=amazonaws>
   <img src=https://img.shields.io/badge/lambda-orange.svg?style=for-the-badge&logo=amazonaws>
   <img src=https://img.shields.io/badge/Windows-%231572B6?style=for-the-badge&logo=windows>
   <img src=https://img.shields.io/badge/mysql-white.svg?style=for-the-badge&logo=mysql>
