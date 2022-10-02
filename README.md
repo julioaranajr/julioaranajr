@@ -10,15 +10,6 @@
 <div align="center"><img src=https://github.com/julioaranajr/julioaranajr/blob/main/aws-partner-accreditation-technical-300px.png>
       <img src=https://github.com/julioaranajr/julioaranajr/blob/main/aws-partner-cloud-economics-badge-300px.png><div/>
     
-
-<p align="center">
-    <img src=https://img.shields.io/badge/AWS%20Partner-%20__Technical__%20-blue.svg?style=for-the-badge&logo=amazonaws>
-    <img src=https://img.shields.io/badge/AWS%20Partner-Cloud__Economics-blue?style=for-the-badge&logo=amazonaws>
-    
- 
-    
-    
-
 <h4 align="center">Technical Skills</h4>
 
 <p align="center">
