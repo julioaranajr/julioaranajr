@@ -7,8 +7,7 @@
 &nbsp;
 
 <h3 align="center">Certifications</h3>
-<div align="center"><img src=https://github.com/julioaranajr/julioaranajr/blob/main/aws-partner-accreditation-technical-300px.png>
-      <img src=https://github.com/julioaranajr/julioaranajr/blob/main/aws-partner-cloud-economics-badge-300px.png><div/>
+<div align="center"><img src=https://github.com/julioaranajr/julioaranajr/blob/main/aws-accreditations.png><div/>
     
 <h4 align="center">Technical Skills</h4>
 
