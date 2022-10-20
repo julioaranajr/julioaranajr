@@ -24,8 +24,7 @@
  
  &nbsp;
 
-🌱 I’m currently learning
-- AWS Certified Cloud Practitioner
+⚡ I’m currently AWS Certified Cloud Practitioner ⚡
 
 <!--
 **julioaranajr/julioaranajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
