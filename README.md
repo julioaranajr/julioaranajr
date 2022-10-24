@@ -7,8 +7,7 @@
 &nbsp;
 
 <h3 align="center">Certifications</h3>
-<div align="center"><img src=https://github.com/julioaranajr/julioaranajr/blob/main/aws-certified-cloud-practitioner-120x120.png><div align="center"><img src=https://github.com/julioaranajr/julioaranajr/blob/main/aws-cloud-quest-cloud-practitioner-120x120.png><div align="center"><img src=https://github.com/julioaranajr/julioaranajr/blob/main/aws-partner-accreditation-technical-120x120.png><div/>
-<div align="center"><img src=https://github.com/julioaranajr/julioaranajr/blob/main/aws-certified-cloud-practitioner-120x120.png><div/>
+<div align="center"><img src=https://github.com/julioaranajr/julioaranajr/blob/main/aws-certified-cloud-practitioner-120x120.png><img src=https://github.com/julioaranajr/julioaranajr/blob/main/aws-cloud-quest-cloud-practitioner-120x120.png><img src=https://github.com/julioaranajr/julioaranajr/blob/main/aws-partner-accreditation-technical-120x120.png><img src=https://github.com/julioaranajr/julioaranajr/blob/main/aws-partner-cloud-economics-accreditation-120x120.png><div/>
 
 <h4 align="center">Technical Skills</h4>
 
