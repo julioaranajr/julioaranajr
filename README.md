@@ -6,8 +6,7 @@
 
 <p align="center"> Every day I try to be a pioneer; and innovative; a lifelong learner; a motor and agitator.<p/>
 <p aling="center"> A leader who leaves a path for others to follow. Most importantly, a person who builds a better world for others.<p/> 
-<p aling="center"> Be like the water and adapt to the environment, enlighten your mind and then<p/> 
-<p aling="center"> try to be a light for others, be a lighthouse on the coast<p/> 
+<p aling="center"> Be like the water and adapt to the environment, enlighten your mind and then try to be a light for others, be a lighthouse on the coast...<p/> 
 
 
 &nbsp;
