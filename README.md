@@ -4,6 +4,12 @@
 
 <h5 align="center">AWS Cloureach Talent Academy DACH 2022 - Associate Cloud Systems Developer</h5>
 
+<p>
+- A pioneer; an innovator; a lifelong learner; a mover and shaker.
+- A leader who leaves a path for others to follow.
+- Most importantly, a person who builds a better world for others.
+<p/>
+
 &nbsp;
 
 <h3 align="center">Certifications</h3>
