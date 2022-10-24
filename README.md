@@ -11,8 +11,7 @@
 <h4 align="center"> Be like the water and adapt to the environment, enlighten your mind and then </h4>
 <h4 align="center"> try to be a light for others, be a lighthouse on the coast... </h4> 
 <hr align="center" size="6" width="100%"  color="green"></hr>
-&nbsp;
-      <h3 align="center">Certifications</h3>
+<h3 align="center">Certifications</h3>
 <div align="center"><img src=https://github.com/julioaranajr/julioaranajr/blob/main/aws-certified-cloud-practitioner-120x120.png><img src=https://github.com/julioaranajr/julioaranajr/blob/main/aws-cloud-quest-cloud-practitioner-120x120.png><img src=https://github.com/julioaranajr/julioaranajr/blob/main/aws-partner-accreditation-technical-120x120.png><img src=https://github.com/julioaranajr/julioaranajr/blob/main/aws-partner-cloud-economics-accreditation-120x120.png><div/>
 <hr align="center" size="6" width="100%"  color="green"></hr>
       <h3 align="center">Technical Skills</h3>
