@@ -1,15 +1,19 @@
 
-
+<div>
 <h2 align="center">Hi there 👋, I'm Julio Arana Jr.</h2>
+</div>
 
+<div>
 <h3 align="center">AWS Cloureach Talent Academy DACH 2022 - Associate Cloud Systems Developer</h3>
+</div>
 
+<div>
 <h4 align="center"> Every day I try to be a pioneer; and innovative; a lifelong learner; a motor and agitator. </h4>
 <h4 align="center"> A leader who leaves a path for others to follow. </h4>
 <h4 align="center"> Most importantly, a person who builds a better world for others. </h4>
 <h4 align="center"> Be like the water and adapt to the environment, enlighten your mind and then </h4>
 <h4 align="center"> try to be a light for others, be a lighthouse on the coast... </h4> 
-
+</div>
 
 &nbsp;
 
