@@ -4,11 +4,11 @@
 
 <h5>AWS Cloureach Talent Academy DACH 2022 - Associate Cloud Systems Developer</h5>
 
-<p> Every day I try to be a pioneer; and innovative; a lifelong learner; a motor and agitator. </p>
-<p> A leader who leaves a path for others to follow. </p>
-<p> Most importantly, a person who builds a better world for others. </p>
-<p> Be like the water and adapt to the environment, enlighten your mind and then </p>
-<p> try to be a light for others, be a lighthouse on the coast... </p> 
+<h2 align="center"> Every day I try to be a pioneer; and innovative; a lifelong learner; a motor and agitator. </h2>
+<h2 align="center"> A leader who leaves a path for others to follow. </h2>
+<h2 align="center"> Most importantly, a person who builds a better world for others. </p>
+<h2 align="center"> Be like the water and adapt to the environment, enlighten your mind and then </p>
+<h2 align="center"> try to be a light for others, be a lighthouse on the coast... </p> 
 
 
 &nbsp;
