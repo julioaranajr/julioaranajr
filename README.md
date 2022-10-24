@@ -1,8 +1,8 @@
 
 
-<h3 align="center">Hi there 👋, I'm Julio Arana Jr.</h3>
+<h4>Hi there 👋, I'm Julio Arana Jr.</h4>
 
-<h5 align="center">AWS Cloureach Talent Academy DACH 2022 - Associate Cloud Systems Developer</h5>
+<h5>AWS Cloureach Talent Academy DACH 2022 - Associate Cloud Systems Developer</h5>
 
 <p> Every day I try to be a pioneer; and innovative; a lifelong learner; a motor and agitator. </p>
 <p> A leader who leaves a path for others to follow. </p>
