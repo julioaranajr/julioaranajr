@@ -6,18 +6,14 @@
 <hr align="center" size="6" width="100%"  color="green"></hr>
 
 > #### **Overview**
-> - Cloud Systems Developer & Consultant with teamwork skills. Ability to adapt to new environments. Committed to leading the migration and delivery the promise of the Cloud.
-> 
-> - High Technical Analytical Skills. Ability to work with team's goals with high standards and quality. Adaptation, mobility and discipline to perform with other people, in multicultural environments, where teamwork is essential.
-> 
-> - Empathy and compromise with the consumer's needs. Acuity to detect &  locate the needs of the market. Knowledge and experience in the management and implementation of projects.
-> 
-> - Full action. Proactive by nature. High Initiative and motivation.  Oriented to work achieving goals. Innovation, creativity and commitment to meet the objectives set by the company.
-> 
-> - More than 10 years of experience as IT Consultant, Venezuelan Petroleum Companies, Telecommunications and Medical Software Solutions.
-> - Undergoing AWS upskilling program with Cloudreach Talent Academy.
-> - Languages: Spanish, English.
-> - Location: (Germany)
+- Cloud Systems Developer & Consultant with teamwork skills. Ability to adapt to new environments. Committed to leading the migration and delivery the promise of the Cloud.
+- High Technical Analytical Skills. Ability to work with team's goals with high standards and quality. Adaptation, mobility and discipline to perform with other people, in multicultural environments, where teamwork is essential.
+- Empathy and compromise with the consumer's needs. Acuity to detect &  locate the needs of the market. Knowledge and experience in the management and implementation of projects.
+- Full action. Proactive by nature. High Initiative and motivation.  Oriented to work achieving goals. Innovation, creativity and commitment to meet the objectives set by the company.
+- More than 10 years of experience as IT Consultant, Venezuelan Petroleum Companies, Telecommunications and Medical Software Solutions.
+- Undergoing AWS upskilling program with Cloudreach Talent Academy.
+- Languages: Spanish, English.
+- Location: (Germany)
 
 <hr align="center" size="6" width="100%"  color="green"></hr>
 <h3 align="center">Certifications</h3>
