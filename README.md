@@ -28,4 +28,4 @@
 <hr align="center" size="6" width="100%"  color="green"></hr>
 
 &nbsp;
-⚡ I’m currently AWS Certified Cloud Practitioner ⚡
+⚡ I’m currently AWS Certified Solutions Architect [SAA-C03]  ⚡
