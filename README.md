@@ -23,8 +23,5 @@
 <h3 align="center">Certifications</h3>
 <div align="center"><img src=https://github.com/julioaranajr/julioaranajr/blob/main/aws-certified-saa-120x120.png><img src=https://github.com/julioaranajr/julioaranajr/blob/main/aws-certified-cloud-practitioner-120x120.png><img src=https://github.com/julioaranajr/julioaranajr/blob/main/aws-cloud-quest-cloud-practitioner-120x120.png><img src=https://github.com/julioaranajr/julioaranajr/blob/main/aws-partner-accreditation-technical-120x120.png><img src=https://github.com/julioaranajr/julioaranajr/blob/main/aws-partner-cloud-economics-accreditation-120x120.png><div/>
 <hr align="center" size="6" width="100%"  color="green"></hr>
-
-<hr align="center" size="6" width="100%"  color="green"></hr>
-
 &nbsp;
 ⚡ I’m currently AWS Certified Solutions Architect [SAA-C03]  ⚡
