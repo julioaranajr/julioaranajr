@@ -1,7 +1,7 @@
 &nbsp;
 <h2 align="center">Welcome 👋, I'm Julio Arana Jr.</h2>
 
-<h3 align="center">AWS Cloureach Talent Academy DACH 2022 - Associate Cloud Systems Developer</h3>
+<h3 align="center">Associate Cloud Systems Developer</h3>
 <hr align="center" size="6" width="100%"  color="green"></hr>
 
 #### **Overview**
