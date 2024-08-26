@@ -1,7 +1,6 @@
 # Hello world 👋, I'm Julio Arana Jr.
 ## 💫 About Me:
 ## Cloud Systems Developer
-## ⚡ I’m currently a Student @ DCI - Digital Career Institute ⚡
 ### **Overview**
 - Motivated and experienced Cloud Engineer with over ten years of experience developing new and innovative design processes, helping companies to meet and exceed  projected expectations.
 - High Technical Analytical and Soft Skills. Ability to work with team's goals.
