@@ -88,7 +88,7 @@
 ## What I'm up to
 
 - 😴 I am busy with Cloud Systems Engineering
-- 💻 I am building my personal portafolio **[julioarana-pythonanywhere](https://julioarana.pythonanywhere.com/)**, on the side
+- 💻 I am building my personal portafolio **[julioarana-wix-site](https://julioaranajr.wixsite.com/index)**, on the side
 - 👩‍💻 I am learning full stack development from Roadmap.sh
 - 🔭 I’m currently working on **Score-it**(An innovative Social Sport Platform) and **TravelApi**(A Travel API that can help you plan your next trip)
 - 🌱 I’m learning Web technologies, Frontend, Backend, Python.
