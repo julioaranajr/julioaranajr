@@ -103,10 +103,6 @@
 
 [![roadmap.sh](https://roadmap.sh/card/wide/67a78362f863343482de8614?variant=dark)](https://roadmap.sh)
 
-## 📊 GitHub Stats
-
-![Julio's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=julioaranajr&theme=dark&hide_border=true)
-
 <br/>
 
 [![Julio's gitartwork](gitartwork.svg)](https://github.com/julioaranajr)
