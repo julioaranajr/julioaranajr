@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 
-### Cloud Systems Developer
+### Python Developer | AWS | G-Cloud | Azure | Cloud Solutions Architect
 
 ### **Overview**
 
