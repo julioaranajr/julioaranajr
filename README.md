@@ -13,7 +13,7 @@
 - Full action. Proactive by nature. High Initiative and motivation. Innovation, creativity and commitment.
 - More than 10 years of experience as IT Consultant, Venezuelan Petroleum Companies, Telecommunications and Medical Software Solutions.
 - Languages: English and Spanish.
-- Location: (Spain) - Remote work.
+- Location: (Swiss) - Remote work.
 
 <br />
 
