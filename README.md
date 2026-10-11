@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 
-### Python Developer | AWS | G-Cloud | Azure | Cloud Solutions Architect
+### PROJECT MANAGER | CLOUD/INFRASTRUCTURE ENGINEER
 
 ### **Overview**
 
