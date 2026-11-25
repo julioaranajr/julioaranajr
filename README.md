@@ -87,8 +87,8 @@
 
 ## What I'm up to
 
-- 😴 I am busy with Cloud Systems Engineering
-- 👩‍💻 I am learning everyday something new.
+- 😴 I am busy with Cloud Systems Engineering.
+- 👩‍💻 I design, automate, secure and deploy cloud systems.
 - 🔭 I’m currently working on **Improve MySelf**
 - 💬 Ask me about Tech, Fly Drones, Travel, Music and Good Food.
 - 📫 How to reach me: You can reach me by email or my social platforms.
