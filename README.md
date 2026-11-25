@@ -88,11 +88,9 @@
 ## What I'm up to
 
 - 😴 I am busy with Cloud Systems Engineering
-- 💻 I am building my personal website **[julioarana-wix-site](https://julioaranajr.wixsite.com/index)**, on the side
-- 👩‍💻 I am learning everyday something new
-- 🔭 I’m currently working on **Score-it**(An innovative Social Sport Platform) and **TravelApi**(A Travel API that can help you plan your next trip)
+- 👩‍💻 I am learning everyday something new.
+- 🔭 I’m currently working on **Improve MySelf**
 - 💬 Ask me about Tech, Fly Drones, Travel, Music and Good Food.
-- 📫 How to reach me: You can reach me via my email or my social platforms
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: You can reach me by email or my social platforms.
 - ⚡ I love outdoors, adventure, dance, travel, fly drones, music, football, coffe and rum.
 
