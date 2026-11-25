@@ -94,5 +94,5 @@
 - 💬 Ask me about Tech, Fly Drones, Travel, Music and Good Food.
 - 📫 How to reach me: You can reach me via my email or my social platforms
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Not all programmers are Nerd. I am a living proof of that. I love outdoors, adventure, dance, travel, fly drones, music, football, coffe and rum.
+- ⚡ I love outdoors, adventure, dance, travel, fly drones, music, football, coffe and rum.
 
