@@ -88,21 +88,11 @@
 ## What I'm up to
 
 - 😴 I am busy with Cloud Systems Engineering
-- 💻 I am building my personal portafolio **[julioarana-wix-site](https://julioaranajr.wixsite.com/index)**, on the side
-- 👩‍💻 I am learning full stack development from Roadmap.sh
+- 💻 I am building my personal website **[julioarana-wix-site](https://julioaranajr.wixsite.com/index)**, on the side
+- 👩‍💻 I am learning everyday something new
 - 🔭 I’m currently working on **Score-it**(An innovative Social Sport Platform) and **TravelApi**(A Travel API that can help you plan your next trip)
-- 🌱 I’m learning Web technologies, Frontend, Backend, Python.
-- 👯 I’m looking to collaborate on Open source projects, Hackathon and startups
-- 🤔 I’m looking for help with Funding
-- 💬 Ask me about Tech(web development, Design, Linux), Travel, Drones, Music and Good Food.
+- 💬 Ask me about Tech, Fly Drones, Travel, Music and Good Food.
 - 📫 How to reach me: You can reach me via my email or my social platforms
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Not all programmers are Nerd. I am a living proof of that. I am a full-action (all-in-one package). I love outdoors, adventure, dance, travel, drones, music, football, tech events, coffee, wine and many other things.
+- ⚡ Fun fact: Not all programmers are Nerd. I am a living proof of that. I love outdoors, adventure, dance, travel, fly drones, music, football, coffe and rum.
 
-## Roadmap
-
-<br />
-
-[![roadmap.sh](https://roadmap.sh/card/wide/67a78362f863343482de8614?variant=dark&roadmaps=git-github%2Cpython%2Cdocker%2Clinux)](https://roadmap.sh)
-
-<br/>
